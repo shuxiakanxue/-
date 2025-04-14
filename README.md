@@ -1,3 +1,9 @@
+# 神经系统疾病多学科诊疗流程图
+
+本项目展示了一个针对神经系统自身免疫相关疾病的标准化诊疗路径，使用 Mermaid.js 绘制成泳道图，适用于 GitHub 显示。
+
+## 🧠 诊疗路径 Mermaid 泳道图
+
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#dbeafe', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#f0f9ff' }}}%%
 flowchart TD
@@ -44,3 +50,4 @@ flowchart TD
     G1 --> H1
     G1 --> H2
     G1 --> H3
+```
